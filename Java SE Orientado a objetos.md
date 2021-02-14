@@ -27,6 +27,8 @@ Métodos
 Objetos
 Además, se basa en los siguiente 4 pilares:
 
+
+
 Encapsulamiento
 Abstracción
 Herencia
@@ -55,3 +57,4 @@ La clase es el modelo sobre el cual se construirá nuestro objeto. Con las clase
 
 Tomemos como un ejemplo una estrella:
 
+https://github.com/Silvi1827/notas/blob/master/notas/src/POO_26.png
